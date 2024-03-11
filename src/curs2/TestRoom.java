@@ -13,6 +13,18 @@ public class TestRoom {
 		System.out.println("Perimetru baie este: " + dormitor.calculPerimetru());
 		System.out.println("Arie baie este: " + dormitor.calculArie());
 
+		
+		Room dormitor2 = new Room(8, 6, "negru");
+
+		
+		System.out.println(123);//int
+		
+		System.out.println("123");//String
+		
+		System.out.println('c');//character
+
+
+		
 	}
 
 }
