@@ -28,6 +28,8 @@ public class GreateastOfThreeNumbers {
 		
 		System.out.println("Please enter third number:");
 		nr3 = scan.nextInt();
+		
+		scan.close();
 	}
 	
 	public void checkGreatestNumber() {
